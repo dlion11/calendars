@@ -1,0 +1,87 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Chimbori//CSV to iCal Convertor// https://csv-to-ical.chimbori.com/ //EN
+CALSCALE:GREGORIAN
+X-WR-CALNAME;VALUE=TEXT:wwe
+BEGIN:VEVENT
+SUMMARY:WWE Saturday Night's Main Event 43
+DTSTAMP:20260125T000000
+DESCRIPTION:The 43rd edition of the Saturday Night's Main Event.
+DTSTART;VALUE=DATE:20260125
+DTEND;VALUE=DATE:20260125
+LOCATION:Bell Centre
+UID:wwe.snme.43
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:WWE Royal Rumble 2026
+DTSTAMP:20260201T000000
+DESCRIPTION:The 2026 Royal Rumble, also promoted as Royal Rumble: Riyadh, is an upcoming professional wrestling livestreaming event produced by the American company WWE. It will be the 39th annual Royal Rumble.
+DTSTART;VALUE=DATE:20260201
+DTEND;VALUE=DATE:20260201
+LOCATION:King Abdullah Financial District
+UID:wwe.royal.rumble.2026
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:WWE Elimination Chamber 2026
+DTSTAMP:20260301T000000
+DESCRIPTION:The 2026 Elimination Chamber is an upcoming professional wrestling pay-per-view (PPV) and livestreaming event produced by WWE. It will be the 16th Elimination Chamber event.
+DTSTART;VALUE=DATE:20260301
+DTEND;VALUE=DATE:20260301
+LOCATION:United Center
+UID:wwe.elimination.chamber.2026
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:WWE WrestleMania 42 Night 1
+DTSTAMP:20260419T000000
+DESCRIPTION:Night 1 of the 2026 SummerSlam, also promoted as SummerSlam: Minneapolis, an upcoming professional wrestling pay-per-view (PPV) and livestreaming event produced by WWE. It will be the 39th annual SummerSlam and is scheduled to take place as a two-night event.
+DTSTART;VALUE=DATE:20260419
+DTEND;VALUE=DATE:20260419
+LOCATION:Allegiant Stadium
+UID:wwe.wrestlemania.42.night.1
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:WWE WrestleMania 42 Night 2
+DTSTAMP:20260420T000000
+DESCRIPTION:Night 2 of the 2026 SummerSlam, also promoted as SummerSlam: Minneapolis, an upcoming professional wrestling pay-per-view (PPV) and livestreaming event produced by WWE. It will be the 39th annual SummerSlam and is scheduled to take place as a two-night event.
+DTSTART;VALUE=DATE:20260420
+DTEND;VALUE=DATE:20260420
+LOCATION:Allegiant Stadium
+UID:wwe.wrestlemania.42.night.2
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:WWE Backlash 2026
+DTSTAMP:20260510T000000
+DESCRIPTION:WWE Backlash is a professional wrestling event that is produced by the American company WWE.
+DTSTART;VALUE=DATE:20260510
+DTEND;VALUE=DATE:20260510
+LOCATION:San Juan, Puerto Rico
+UID:wwe.backlash.2026
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:WWE SummerSlam 2026 Night 1
+DTSTAMP:20260802T000000
+DESCRIPTION:Night 1 of the 2026 SummerSlam, also promoted as SummerSlam: Minneapolis, an upcoming professional wrestling pay-per-view (PPV) and livestreaming event produced by WWE. It will be the 39th annual SummerSlam and is scheduled to take place as a two-night event.
+DTSTART;VALUE=DATE:20260802
+DTEND;VALUE=DATE:20260802
+LOCATION:U.S. Bank Stadium
+UID:wwe.summerslam.2026.night.1
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:WWE SummerSlam 2026 Night 2
+DTSTAMP:20260803T000000
+DESCRIPTION:Night 2 of the 2026 SummerSlam, also promoted as SummerSlam: Minneapolis, an upcoming professional wrestling pay-per-view (PPV) and livestreaming event produced by WWE. It will be the 39th annual SummerSlam and is scheduled to take place as a two-night event.
+DTSTART;VALUE=DATE:20260803
+DTEND;VALUE=DATE:20260803
+LOCATION:U.S. Bank Stadium
+UID:wwe.summerslam.2026.night.2
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:WWE Money in the Bank 2026
+DTSTAMP:20260907T000000
+DESCRIPTION:The 2026 Money in the Bank, also promoted as Money in the Bank: New Orleans, is an upcoming professional wrestling pay-per-view (PPV) and livestreaming event produced by WWE. It will be the 17th annual Money in the Bank event.
+DTSTART;VALUE=DATE:20260907
+DTEND;VALUE=DATE:20260907
+LOCATION:Smoothie King Center
+UID:wwe.money.in.the.bank.2026
+END:VEVENT
+END:VCALENDAR
