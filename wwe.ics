@@ -31,6 +31,15 @@ LOCATION:United Center
 UID:wwe.elimination.chamber.2026
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:AAA Rey de Reyes 2026
+DTSTAMP:20260315T000000
+DESCRIPTION:The 2026 Rey de Reyes (Spanish for "King of Kings") is an upcoming professional wrestling event produced by the Mexican professional wrestling promotion Lucha Libre AAA Worldwide (AAA), in partnership with its parent company WWE.
+DTSTART;VALUE=DATE:20260315
+DTEND;VALUE=DATE:20260315
+LOCATION:Auditorio GNP Seguros
+UID:aaa.rey.de.reyes.2026
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:WWE WrestleMania 42 Night 1
 DTSTAMP:20260419T000000
 DESCRIPTION:Night 1 of the 2026 SummerSlam, also promoted as SummerSlam: Minneapolis, an upcoming professional wrestling pay-per-view (PPV) and livestreaming event produced by WWE. It will be the 39th annual SummerSlam and is scheduled to take place as a two-night event.
