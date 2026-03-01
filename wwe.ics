@@ -31,6 +31,15 @@ LOCATION:United Center
 UID:wwe.elimination.chamber.2026
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:NXT Vengeance Day 2026
+DTSTAMP:20260308T000000
+DESCRIPTION:The 2026 Vengeance Day is an upcoming professional wrestling livestreaming event produced by WWE.
+DTSTART;VALUE=DATE:20260308
+DTEND;VALUE=DATE:20260308
+LOCATION:WWE Performance Center
+UID:nxt.vengeance.day.2026
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:AAA Rey de Reyes 2026
 DTSTAMP:20260315T000000
 DESCRIPTION:The 2026 Rey de Reyes (Spanish for "King of Kings") is an upcoming professional wrestling event produced by the Mexican professional wrestling promotion Lucha Libre AAA Worldwide (AAA), in partnership with its parent company WWE.
@@ -38,6 +47,15 @@ DTSTART;VALUE=DATE:20260315
 DTEND;VALUE=DATE:20260315
 LOCATION:Auditorio GNP Seguros
 UID:aaa.rey.de.reyes.2026
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:NXT Stand & Deliver 2026
+DTSTAMP:20260405T000000
+DESCRIPTION:The 2026 Stand & Deliver is an upcoming professional wrestling livestreaming event produced by WWE for its developmental brand NXT.
+DTSTART;VALUE=DATE:20260405
+DTEND;VALUE=DATE:20260405
+LOCATION:The Factory at The District
+UID:nxt.stand.&.deliver.2026
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:WWE WrestleMania 42 Night 1
@@ -63,8 +81,17 @@ DTSTAMP:20260510T000000
 DESCRIPTION:WWE Backlash is a professional wrestling event that is produced by the American company WWE.
 DTSTART;VALUE=DATE:20260510
 DTEND;VALUE=DATE:20260510
-LOCATION:San Juan, Puerto Rico
+LOCATION:Benchmark International Arena
 UID:wwe.backlash.2026
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:WWE Clash in Italy 2026
+DTSTAMP:20260601T000000
+DESCRIPTION:Clash in Italy is an upcoming 2026 professional wrestling pay-per-view (PPV) and livestreaming event produced by the American company WWE.
+DTSTART;VALUE=DATE:20260601
+DTEND;VALUE=DATE:20260601
+LOCATION:Inalpi Arena
+UID:wwe.clash.in.italy.2026
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:WWE SummerSlam 2026 Night 1
