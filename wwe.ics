@@ -4,7 +4,7 @@ VERSION:2.0
 BEGIN:VEVENT
 DESCRIPTION:The 43rd edition of the Saturday Night's Main Event.
 DTEND;VALUE=DATE:20260126
-DTSTAMP:20260903T144654Z
+DTSTAMP:20260904T092626Z
 DTSTART;VALUE=DATE:20260125
 LOCATION:Bell Centre
 SEQUENCE:0
@@ -16,7 +16,7 @@ DESCRIPTION:The 2026 Royal Rumble\, also promoted as Royal Rumble: Riyadh\,
   is an upcoming professional wrestling livestreaming event produced by the
   American company WWE. It will be the 39th annual Royal Rumble.
 DTEND;VALUE=DATE:20260202
-DTSTAMP:20260903T144654Z
+DTSTAMP:20260904T092626Z
 DTSTART;VALUE=DATE:20260201
 LOCATION:King Abdullah Financial District
 SEQUENCE:0
@@ -28,7 +28,7 @@ DESCRIPTION:The 2026 Elimination Chamber is an upcoming professional wrestl
  ing pay-per-view (PPV) and livestreaming event produced by WWE. It will be
   the 16th Elimination Chamber event.
 DTEND;VALUE=DATE:20260302
-DTSTAMP:20260903T144654Z
+DTSTAMP:20260904T092626Z
 DTSTART;VALUE=DATE:20260301
 LOCATION:United Center
 SEQUENCE:0
@@ -39,7 +39,7 @@ BEGIN:VEVENT
 DESCRIPTION:The 2026 Vengeance Day is an upcoming professional wrestling li
  vestreaming event produced by WWE.
 DTEND;VALUE=DATE:20260309
-DTSTAMP:20260903T144654Z
+DTSTAMP:20260904T092626Z
 DTSTART;VALUE=DATE:20260308
 LOCATION:WWE Performance Center
 SEQUENCE:0
@@ -52,7 +52,7 @@ DESCRIPTION:The 2026 Rey de Reyes (Spanish for "King of Kings") is an upcom
  tling promotion Lucha Libre AAA Worldwide (AAA)\, in partnership with its 
  parent company WWE.
 DTEND;VALUE=DATE:20260316
-DTSTAMP:20260903T144654Z
+DTSTAMP:20260904T092626Z
 DTSTART;VALUE=DATE:20260315
 LOCATION:Auditorio GNP Seguros
 SEQUENCE:0
@@ -63,7 +63,7 @@ BEGIN:VEVENT
 DESCRIPTION:The 2026 Stand & Deliver is an upcoming professional wrestling 
  livestreaming event produced by WWE for its developmental brand NXT.
 DTEND;VALUE=DATE:20260406
-DTSTAMP:20260903T144654Z
+DTSTAMP:20260904T092626Z
 DTSTART;VALUE=DATE:20260405
 LOCATION:The Factory at The District
 SEQUENCE:0
@@ -76,7 +76,7 @@ DESCRIPTION:Night 1 of the 2026 SummerSlam\, also promoted as SummerSlam: M
  estreaming event produced by WWE. It will be the 39th annual SummerSlam an
  d is scheduled to take place as a two-night event.
 DTEND;VALUE=DATE:20260420
-DTSTAMP:20260903T144654Z
+DTSTAMP:20260904T092626Z
 DTSTART;VALUE=DATE:20260419
 LOCATION:Allegiant Stadium
 SEQUENCE:0
@@ -89,7 +89,7 @@ DESCRIPTION:Night 2 of the 2026 SummerSlam\, also promoted as SummerSlam: M
  estreaming event produced by WWE. It will be the 39th annual SummerSlam an
  d is scheduled to take place as a two-night event.
 DTEND;VALUE=DATE:20260421
-DTSTAMP:20260903T144654Z
+DTSTAMP:20260904T092626Z
 DTSTART;VALUE=DATE:20260420
 LOCATION:Allegiant Stadium
 SEQUENCE:0
@@ -100,7 +100,7 @@ BEGIN:VEVENT
 DESCRIPTION:WWE Backlash is a professional wrestling event that is produced
   by the American company WWE.
 DTEND;VALUE=DATE:20260511
-DTSTAMP:20260903T144654Z
+DTSTAMP:20260904T092626Z
 DTSTART;VALUE=DATE:20260510
 LOCATION:Benchmark International Arena
 SEQUENCE:0
@@ -110,7 +110,7 @@ END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:The 44th edition of the Saturday Night's Main Event.
 DTEND;VALUE=DATE:20260525
-DTSTAMP:20260903T144654Z
+DTSTAMP:20260904T092626Z
 DTSTART;VALUE=DATE:20260524
 LOCATION:Allen County War Memorial Coliseum
 SEQUENCE:0
@@ -122,7 +122,7 @@ DESCRIPTION:Clash in Italy is an upcoming 2026 professional wrestling pay-p
  er-view (PPV) and livestreaming event produced by the American company WWE
  .
 DTEND;VALUE=DATE:20260602
-DTSTAMP:20260903T144654Z
+DTSTAMP:20260904T092626Z
 DTSTART;VALUE=DATE:20260601
 LOCATION:Inalpi Arena
 SEQUENCE:0
@@ -134,7 +134,7 @@ DESCRIPTION:The 2026 Night of Champions\, also promoted as Night of Champio
  ns: Riyadh\, is an upcoming professional wrestling pay-per-view (PPV) and 
  livestreaming event produced by the American company WWE.
 DTEND;VALUE=DATE:20260629
-DTSTAMP:20260903T144654Z
+DTSTAMP:20260904T092626Z
 DTSTART;VALUE=DATE:20260628
 LOCATION:Kingdom Arena
 SEQUENCE:0
@@ -146,7 +146,7 @@ DESCRIPTION:The 2026 NXT The Great American Bash\, also promoted as NXT The
   Great American Bash: Orlando\, is an upcoming professional wrestling even
  t produced by WWE.
 DTEND;VALUE=DATE:20260630
-DTSTAMP:20260903T144654Z
+DTSTAMP:20260904T092626Z
 DTSTART;VALUE=DATE:20260629
 LOCATION:WWE Performance Center
 SEQUENCE:0
@@ -156,7 +156,7 @@ END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:The 45th edition of the Saturday Night's Main Event.
 DTEND;VALUE=DATE:20260720
-DTSTAMP:20260903T144654Z
+DTSTAMP:20260904T092626Z
 DTSTART;VALUE=DATE:20260719
 LOCATION:Madison Square Garden
 SEQUENCE:0
@@ -169,7 +169,7 @@ DESCRIPTION:Night 1 of the 2026 SummerSlam\, also promoted as SummerSlam: M
  estreaming event produced by WWE. It will be the 39th annual SummerSlam an
  d is scheduled to take place as a two-night event.
 DTEND;VALUE=DATE:20260803
-DTSTAMP:20260903T144654Z
+DTSTAMP:20260904T092626Z
 DTSTART;VALUE=DATE:20260802
 LOCATION:U.S. Bank Stadium
 SEQUENCE:0
@@ -182,7 +182,7 @@ DESCRIPTION:Night 2 of the 2026 SummerSlam\, also promoted as SummerSlam: M
  estreaming event produced by WWE. It will be the 39th annual SummerSlam an
  d is scheduled to take place as a two-night event.
 DTEND;VALUE=DATE:20260804
-DTSTAMP:20260903T144654Z
+DTSTAMP:20260904T092626Z
 DTSTART;VALUE=DATE:20260803
 LOCATION:U.S. Bank Stadium
 SEQUENCE:0
@@ -194,7 +194,7 @@ DESCRIPTION:The 2026 NXT Heatwave\, also promoted as NXT Heatwave: Texas\,
  is an upcoming professional wrestling livestreaming and television special
   event produced by WWE.
 DTEND;VALUE=DATE:20260901
-DTSTAMP:20260903T144654Z
+DTSTAMP:20260904T092626Z
 DTSTART;VALUE=DATE:20260831
 LOCATION:Bert Ogden Arena
 SEQUENCE:0
@@ -204,19 +204,42 @@ END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:The 46th edition of the Saturday Night's Main Event.
 DTEND;VALUE=DATE:20260908
-DTSTAMP:20260903T144654Z
+DTSTAMP:20260904T092626Z
 DTSTART;VALUE=DATE:20260907
 LOCATION:State Farm Arena
 SEQUENCE:0
-SUMMARY:WWE Saturday Night's Main Event 46
-UID:wwe.saturday.night's.main.event.46
+SUMMARY:WWE Sunday Night's Main Event 46
+UID:wwe.sunday.night's.main.event.46
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:First Tripleman�a event to take place in the United States si
+ nce the WWE acquisition and the first held in the U.S. overall since 1996.
+DTEND;VALUE=DATE:20260913
+DTSTAMP:20260904T092626Z
+DTSTART;VALUE=DATE:20260912
+LOCATION:MGM Grand Garden Arena
+SEQUENCE:0
+SUMMARY:AAA Triplemania 34 Night 1
+UID:aaa.triplemania.34.night.1
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Tripleman�a 34 is an upcoming professional wrestling livestre
+ aming event produced by the Mexican professional wrestling promotion Lucha
+  Libre AAA Worldwide (AAA)\, in partnership with its parent company WWE.
+DTEND;VALUE=DATE:20260914
+DTSTAMP:20260904T092626Z
+DTSTART;VALUE=DATE:20260913
+LOCATION:Arena CDMX
+SEQUENCE:0
+SUMMARY:AAA Triplemania 34 Night 2
+UID:aaa.triplemania.34.night.2
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:The 2026 Worlds Collide is an upcoming professional wrestling l
  ivestreaming event and supercard co-produced by the American promotion WWE
   and its Mexican sister promotion Lucha Libre AAA Worldwide (AAA).
 DTEND;VALUE=DATE:20260928
-DTSTAMP:20260903T144654Z
+DTSTAMP:20260904T092626Z
 DTSTART;VALUE=DATE:20260927
 LOCATION:Allstate Arena
 SEQUENCE:0
@@ -229,7 +252,7 @@ DESCRIPTION:The 2026 Money in the Bank\, also promoted as Money in the Bank
  nd livestreaming event produced by WWE. It will be the 17th annual Money i
  n the Bank event.
 DTEND;VALUE=DATE:20261012
-DTSTAMP:20260903T144654Z
+DTSTAMP:20260904T092626Z
 DTSTART;VALUE=DATE:20261011
 LOCATION:Smoothie King Center
 SEQUENCE:0
@@ -237,10 +260,10 @@ SUMMARY:WWE Money in the Bank 2026
 UID:wwe.money.in.the.bank.2026
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:The 2026 NXT Halloween Havoc is an upcoming professional wr
- estling television special and livestreaming event produced by WWE.
+DESCRIPTION:The 2026 NXT Halloween Havoc is an upcoming professional wrestl
+ ing television special and livestreaming event produced by WWE.
 DTEND;VALUE=DATE:20261102
-DTSTAMP:20260903T144654Z
+DTSTAMP:20260904T092626Z
 DTSTART;VALUE=DATE:20261101
 LOCATION:
 SEQUENCE:0
@@ -248,12 +271,12 @@ SUMMARY:NXT Halloween Havoc 2026
 UID:nxt.halloween.havoc.2026
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:The 2026 Crown Jewel\, also promoted as Crown Jewel: Riyadh
- \, is an upcoming professional wrestling pay-per-view (PPV) and livestream
- ing event produced by the American company WWE\, to be held for wrestlers 
- from the promotion's main roster brands\, Raw and SmackDown.
+DESCRIPTION:The 2026 Crown Jewel\, also promoted as Crown Jewel: Riyadh\, i
+ s an upcoming professional wrestling pay-per-view (PPV) and livestreaming 
+ event produced by the American company WWE\, to be held for wrestlers from
+  the promotion's main roster brands\, Raw and SmackDown.
 DTEND;VALUE=DATE:20261109
-DTSTAMP:20260903T144654Z
+DTSTAMP:20260904T092626Z
 DTSTART;VALUE=DATE:20261108
 LOCATION:Riyadh Season Stadium
 SEQUENCE:0
@@ -265,7 +288,7 @@ DESCRIPTION:The 2026 Survivor Series: WarGames\, also promoted as Survivor
  Series: WarGames Houston\, is an upcoming professional wrestling pay-per-v
  iew (PPV) and livestreaming event produced by WWE.
 DTEND;VALUE=DATE:20261130
-DTSTAMP:20260903T144654Z
+DTSTAMP:20260904T092626Z
 DTSTART;VALUE=DATE:20261129
 LOCATION:Daikin Park
 SEQUENCE:0
@@ -273,12 +296,12 @@ SUMMARY:WWE Survivor Series: WarGames 2026
 UID:wwe.survivor.series.wargames.2026
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:The 2026 Wrestlepalooza\, also promoted as Wrestlepalooza: 
- Perth\, is an upcoming professional wrestling pay-per-view (PPV) and lives
- treaming event produced by WWE\, held for wrestlers from the promotion's m
- ain roster brands\, Raw and SmackDown.
+DESCRIPTION:The 2026 Wrestlepalooza\, also promoted as Wrestlepalooza: Pert
+ h\, is an upcoming professional wrestling pay-per-view (PPV) and livestrea
+ ming event produced by WWE\, held for wrestlers from the promotion's main 
+ roster brands\, Raw and SmackDown.
 DTEND;VALUE=DATE:20261214
-DTSTAMP:20260903T144654Z
+DTSTAMP:20260904T092626Z
 DTSTART;VALUE=DATE:20261213
 LOCATION:RAC Arena
 SEQUENCE:0
