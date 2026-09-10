@@ -1,0 +1,136 @@
+BEGIN:VCALENDAR
+PRODID:-//github.com/ical-org/ical.net//NONSGML ical.net 5.2.2//EN
+VERSION:2.0
+BEGIN:VEVENT
+DESCRIPTION:The FEU Tamaraws takes on the AdU Soaring Falcons in the First 
+ round of Eliminations.
+DTEND;TZID=Asia/Manila:20260913T143000
+DTSTAMP:20260910T113054Z
+DTSTART;TZID=Asia/Manila:20260913T120000
+LOCATION:Smart Araneta Coliseum
+SEQUENCE:0
+SUMMARY:S89 R1: FEU vs AdU
+UID:s89.r1.feu.vs.adu
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:The DLSU Green Archers takes on the NU Bulldogs in the First ro
+ und of Eliminations.
+DTEND;TZID=Asia/Manila:20260913T170000
+DTSTAMP:20260910T113054Z
+DTSTART;TZID=Asia/Manila:20260913T143000
+LOCATION:Smart Araneta Coliseum
+SEQUENCE:0
+SUMMARY:S89 R1: DLSU vs NU
+UID:s89.r1.dlsu.vs.nu
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:The UP Fighting Maroons takes on the UST Growling Tigers in the
+  First round of Eliminations.
+DTEND;TZID=Asia/Manila:20260913T203000
+DTSTAMP:20260910T113054Z
+DTSTART;TZID=Asia/Manila:20260913T180000
+LOCATION:Smart Araneta Coliseum
+SEQUENCE:0
+SUMMARY:S89 R1: UP vs UST
+UID:s89.r1.up.vs.ust
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:The AdMU Blue Eagles takes on the UE Red Warriors in the First 
+ round of Eliminations.
+DTEND;TZID=Asia/Manila:20260916T173000
+DTSTAMP:20260910T113054Z
+DTSTART;TZID=Asia/Manila:20260916T150000
+LOCATION:Mall of Asia Arena
+SEQUENCE:0
+SUMMARY:S89 R1: AdMU vs UE
+UID:s89.r1.admu.vs.ue
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:The DLSU Green Archers takes on the UST Growling Tigers in the 
+ First round of Eliminations.
+DTEND;TZID=Asia/Manila:20260916T200000
+DTSTAMP:20260910T113054Z
+DTSTART;TZID=Asia/Manila:20260916T173000
+LOCATION:Mall of Asia Arena
+SEQUENCE:0
+SUMMARY:S89 R1: DLSU vs UST
+UID:s89.r1.dlsu.vs.ust
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:The NU Bulldogs takes on the UE Red Warriors in the First round
+  of Eliminations.
+DTEND;TZID=Asia/Manila:20260919T173000
+DTSTAMP:20260910T113054Z
+DTSTART;TZID=Asia/Manila:20260919T150000
+LOCATION:Smart Araneta Coliseum
+SEQUENCE:0
+SUMMARY:S89 R1: NU vs UE
+UID:s89.r1.nu.vs.ue
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:The AdMU Blue Eagles takes on the UP Fighting Maroons in the Fi
+ rst round of Eliminations.
+DTEND;TZID=Asia/Manila:20260919T200000
+DTSTAMP:20260910T113054Z
+DTSTART;TZID=Asia/Manila:20260919T173000
+LOCATION:Smart Araneta Coliseum
+SEQUENCE:0
+SUMMARY:S89 R1: AdMU vs UP
+UID:s89.r1.admu.vs.up
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:The AdMU Blue Eagles takes on the AdU Soaring Falcons in the Fi
+ rst round of Eliminations.
+DTEND;TZID=Asia/Manila:20260926T143000
+DTSTAMP:20260910T113054Z
+DTSTART;TZID=Asia/Manila:20260926T120000
+LOCATION:Mall of Asia Arena
+SEQUENCE:0
+SUMMARY:S89 R1: AdMU vs AdU
+UID:s89.r1.admu.vs.adu
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:The UE Red Warriors takes on the FEU Tamaraws in the First roun
+ d of Eliminations.
+DTEND;TZID=Asia/Manila:20260926T170000
+DTSTAMP:20260910T113054Z
+DTSTART;TZID=Asia/Manila:20260926T143000
+LOCATION:Mall of Asia Arena
+SEQUENCE:0
+SUMMARY:S89 R1: UE vs FEU
+UID:s89.r1.ue.vs.feu
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:The NU Bulldogs takes on the UP Fighting Maroons in the First r
+ ound of Eliminations.
+DTEND;TZID=Asia/Manila:20260926T203000
+DTSTAMP:20260910T113054Z
+DTSTART;TZID=Asia/Manila:20260926T180000
+LOCATION:Mall of Asia Arena
+SEQUENCE:0
+SUMMARY:S89 R1: NU vs UP
+UID:s89.r1.nu.vs.up
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:The AdU Soaring Falcons takes on the UST Growling Tigers in the
+  First round of Eliminations.
+DTEND;TZID=Asia/Manila:20260930T173000
+DTSTAMP:20260910T113054Z
+DTSTART;TZID=Asia/Manila:20260930T150000
+LOCATION:Mall of Asia Arena
+SEQUENCE:0
+SUMMARY:S89 R1: AdU vs UST
+UID:s89.r1.adu.vs.ust
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:The DLSU Green Archers takes on the FEU Tamaraws in the First r
+ ound of Eliminations.
+DTEND;TZID=Asia/Manila:20260930T200000
+DTSTAMP:20260910T113054Z
+DTSTART;TZID=Asia/Manila:20260930T173000
+LOCATION:Mall of Asia Arena
+SEQUENCE:0
+SUMMARY:S89 R1: DLSU vs FEU
+UID:s89.r1.dlsu.vs.feu
+END:VEVENT
+END:VCALENDAR
