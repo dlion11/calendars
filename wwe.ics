@@ -226,9 +226,9 @@ BEGIN:VEVENT
 DESCRIPTION:Tripleman�a 34 is an upcoming professional wrestling livestre
  aming event produced by the Mexican professional wrestling promotion Lucha
   Libre AAA Worldwide (AAA)\, in partnership with its parent company WWE.
-DTEND;VALUE=DATE:20260914
-DTSTAMP:20260905T174440Z
-DTSTART;VALUE=DATE:20260913
+DTEND;VALUE=DATE:20260915
+DTSTAMP:20260912T160540Z
+DTSTART;VALUE=DATE:20260914
 LOCATION:Arena CDMX
 SEQUENCE:0
 SUMMARY:AAA Triplemania 34 Night 2
