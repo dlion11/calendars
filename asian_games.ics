@@ -678,4 +678,54 @@ SEQUENCE:0
 SUMMARY:🏊‍♀️Swimming [W] 4x100m Medley Final
 UID:swimming.15.2
 END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:2026 Asian Games - Weightlifting - Rosegie Ramos
+DTEND;TZID=Asia/Manila:20260923T180000
+DTSTAMP:20260922T130336Z
+DTSTART;TZID=Asia/Manila:20260923T160000
+LOCATION:Nagoya City Trade and Industry Center
+SEQUENCE:0
+SUMMARY:🏋🏼‍♀️Weightlifting ♀️: [W] 53kg
+UID:weightlifting.1
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:2026 Asian Games - Weightlifting - Eleaphraime Limmong
+DTEND;TZID=Asia/Manila:20260924T143000
+DTSTAMP:20260922T130336Z
+DTSTART;TZID=Asia/Manila:20260924T123000
+LOCATION:Nagoya City Trade and Industry Center
+SEQUENCE:0
+SUMMARY:🏋🏼‍♂️Weightlifting ♂️: [M] 60kg
+UID:weightlifting.2
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:2026 Asian Games - Weightlifting - Elreen Ann Ando
+DTEND;TZID=Asia/Manila:20260925T180000
+DTSTAMP:20260922T130336Z
+DTSTART;TZID=Asia/Manila:20260925T160000
+LOCATION:Nagoya City Trade and Industry Center
+SEQUENCE:0
+SUMMARY:🏋🏼‍♀️Weightlifting ♀️: [W] 61kg
+UID:weightlifting.3
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:2026 Asian Games - Weightlifting - Albert Ian Delos Santos
+DTEND;TZID=Asia/Manila:20260926T143000
+DTSTAMP:20260922T130336Z
+DTSTART;TZID=Asia/Manila:20260926T123000
+LOCATION:Nagoya City Trade and Industry Center
+SEQUENCE:0
+SUMMARY:🏋🏼‍♂️Weightlifting ♂️: [M] 70kg
+UID:weightlifting.4
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:2026 Asian Games - Weightlifting - Kristel Macrohon
+DTEND;TZID=Asia/Manila:20260927T143000
+DTSTAMP:20260922T130336Z
+DTSTART;TZID=Asia/Manila:20260927T123000
+LOCATION:Nagoya City Trade and Industry Center
+SEQUENCE:0
+SUMMARY:🏋🏼‍♀️Weightlifting ♀️: [W] 69kg
+UID:weightlifting.5
+END:VEVENT
 END:VCALENDAR
