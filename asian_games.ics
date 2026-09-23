@@ -94,6 +94,17 @@ SUMMARY:🥊Boxing ♂️60kg R32: Junmilardo Ogayre
 UID:boxing.2.1
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:2026 Asian Games - Boxing Preliminary Rounds - Junmilardo Ogayr
+ e (60kg)
+DTEND;TZID=Asia/Manila:20260925T123000
+DTSTAMP:20260923T151500Z
+DTSTART;TZID=Asia/Manila:20260925T121500
+LOCATION:Nishio Gymnasium
+SEQUENCE:0
+SUMMARY:🥊Boxing ♂️60kg R16: Junmilardo Ogayre
+UID:boxing.2.2
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:2026 Asian Games - Boxing Preliminary Rounds - Norlan Petecio (
  70kg)
 DTEND;TZID=Asia/Manila:20260921T161500
