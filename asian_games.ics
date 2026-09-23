@@ -116,7 +116,8 @@ SUMMARY:🥊Boxing ♂️70kg R32: Norlan Petecio
 UID:boxing.3.1
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:2026 Asian Games - Boxing Quarterfinals - Norlan Petecio (70kg)
+DESCRIPTION:2026 Asian Games - Boxing Preliminary Rounds - Norlan Petecio (
+ 70kg)
 DTEND;TZID=Asia/Manila:20260924T180000
 DTSTAMP:20260922T130336Z
 DTSTART;TZID=Asia/Manila:20260924T174500
