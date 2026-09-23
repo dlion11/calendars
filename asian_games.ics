@@ -42,6 +42,26 @@ SUMMARY:⚾Baseball ♂️Grp A: 🇵🇭 🇯🇵 | PHI vs JPN
 UID:baseball.3
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:2026 Asian Games - Men's Baseball Placement Round
+DTEND;TZID=Asia/Manila:20260925T134500
+DTSTAMP:20260923T151500Z
+DTSTART;TZID=Asia/Manila:20260925T110000
+LOCATION:Okazaki Chuo Sogo Park Baseball Stadium
+SEQUENCE:0
+SUMMARY:⚾Baseball ♂️Placement: 🇵🇭 🇹🇭 | PHI vs THA
+UID:baseball.4
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:2026 Asian Games - Men's Baseball Placement Round
+DTEND;TZID=Asia/Manila:20260926T134500
+DTSTAMP:20260923T151500Z
+DTSTART;TZID=Asia/Manila:20260926T110000
+LOCATION:Toyohashi Municipal Baseball Stadium
+SEQUENCE:0
+SUMMARY:⚾Baseball ♂️Placement: 🇭🇰 🇵🇭 | HKG vs PHI
+UID:baseball.5
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:2026 Asian Games - Women's 5x5 Basketball Quarterfinals
 DTEND;TZID=Asia/Manila:20260924T111500
 DTSTAMP:20260922T130336Z
