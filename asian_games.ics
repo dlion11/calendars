@@ -3,6 +3,7 @@ PRODID:-//github.com/ical-org/ical.net//NONSGML ical.net 5.2.2//EN
 VERSION:2.0
 BEGIN:VEVENT
 DESCRIPTION:2026 Asian Games - Athletics - EJ Obiena
+DESCRIPTION:2026 Asian Games - Athletics - EJ Obiena
 DTEND;TZID=Asia/Manila:20260929T201500
 DTSTAMP:20260924T152531Z
 DTSTART;TZID=Asia/Manila:20260929T171500
